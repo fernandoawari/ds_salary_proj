@@ -1,0 +1,255 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Sr. Data Scientist - Model Governance,$101K-$163K (Glassdoor est.),"General Summary:
+
+The position plays a critical role in the oversight of predictive analytics and robust modeling at Elevate. The Sr. Data Scientist, Model Governance provides effective challenge, review, oversight, guidance, and ongoing monitoring for all models used within our Account Origination (Fraud, Risk and Response) and Account Management functions.
+
+Principal Duties and Responsibilities:
+Review models and provide effective challenge and feedback to the developers to action change.
+Manage a model review/validation program aligned to OCC 2011-12 / SR 11-7 guidelines.
+Perform model stability monitoring to ensure ongoing performance for business applications.
+Deliver model variable stability and performance reviews on determined cadence.
+Write clear and detailed model documentation coordinating efforts with the model developers.
+Work with other members of the Governance team to ensure all documentation is saved in the official repository and meets internal Credit Policy standards for all new and existing models.
+Utilize advanced statistical software to validate linear/non-linear, parametric/non-parametric based predictive modeling/data mining analytic methodologies.
+Creation of associated decks for presentation to executive management.
+Present findings and make recommendations to Model and Risk Governance teams.
+Act as liaison between partner banks / third party validators and Elevate.
+Complete all other projects as assigned.
+Experience and Education:
+Minimum M.S./M.A. in a highly quantitative field (Statistics, Economics, Mathematics, or other quantitatively-oriented degree) or experience in a process related Senior Analyst role in an analytical capacity.
+Strong quantitative /statistical modeling capabilities, including with 5+ years of experience in credit scoring and model development preferred.
+3+ years’ experience in Risk Management or Model Governance functions including knowledge of OCC / FDIC regulations for model documentation.
+3+ years’ experience within the consumer lending environment.
+Strong SAS, R, and SQL skills preferred, with ability to conduct extensive data research required. Candidates with experience with other software such as Python, SPSS, MATLAB may also be considered.
+Demonstrated experience working with large complex data sources.
+Strong PowerPoint presentation skills a plus.
+Required Skills and Abilities:
+Ability to work in fast-paced environment with ever-changing demands.
+Ability to manage multiple projects at one time, possibly including overseeing others projects.
+Strong communication skills. Must be able to clearly communicate in speech and writing with Risk Management peers, Marketing, Operations, Collections, Finance, C-level Executives, CEO, and BOD.",3.5,"Elevate Credit, Inc.
+3.5","Addison, TX",-1,501 to 1000 Employees,2014,Company - Public,Lending,Finance,$100 to $500 million (USD),-1
+Senior Data Scientist,$101K-$163K (Glassdoor est.),"The ultimate source for official answers about a business online should be the business itself. However, when consumers ask questions on company websites, too often they are left in the dark with wrong answers. Yext (NYSE: YEXT), the Search Experience Cloud, solves this problem by organizing a business's facts so it can provide official answers to consumer questions — wherever people search. Starting with the company website, then extending across search engines and voice assistants, businesses around the world, like Taco Bell, Marriott, and Jaguar Land Rover—as well as organizations like the U.S. State Department—trust Yext to radically improve the search experience on their websites and across the entire search ecosystem.
+
+As a Senior Data Scientist you will shape how data is collected, transformed, and leveraged to develop essential new capabilities and features for Yext's products. We manage large amounts of structured master data on behalf of some of the world's largest companies and collect transactional data through end-user-facing applications we host directly for these clients. Our mission revolves around deeply understanding user intent so we can deliver relevant and accurate answers to questions, everywhere people search.
+
+Yext clients cover a tremendous breadth of industries. We are seeking data scientists excited to discover opportunities in data across a wide variety of business domains. You will work collaboratively with cross-team partners in software engineering, product management, and strategy. This approach will allow you to participate fully in the product development lifecycle and make pragmatic decisions about the design, training, and deployment of machine learning models driving key product features.
+
+What You'll Do
+Partner with product management and engineering teams throughout the product development lifecycle
+Solve ""full stack"" Data Science problems – Implement solutions to a data science problem in a production environment, coping with all the challenges (such as data cleanliness, performance, unexpected feedback loops, and concept drift) that arise
+Articulate Data Science and machine learning concepts to a variety of audiences (product managers, software engineers, executives, sales partners)
+Mentor junior team members, provide technical leadership and execution guidance
+Dive deep into the details when called for while demonstrating good judgement about when to simplify and prioritize
+What You Have
+Advanced degree in a quantitative discipline, e.g., computer science, mathematics, business analytics, statistics, applied mathematics, economics, or operations research, or similar college level education
+5+ years of work experience working in a technical role
+Autodidactic, Self directed – You are able to dive into a new unfamiliar problem domain and start learning about it – You are comfortable with uncertainty and project evolution
+Effective communicator, a good writer, and know effective means of visually displaying quantitative information
+Experience leading cross-functional agile work streams and scaling data-driven initiatives
+Fluency with data analysis software and tools such as Python and SQL
+Exceptional multi-tasking, project management, and leadership skills
+Bonus Points
+Experience with JVM languages (Java, Scala) a plus. GoLang or C++ also great!
+Experience with AWS, Linux and Mac environments
+Excellent ability to cope with ""glue"" problems - shell scripting, debugging python environment problems, fixing broken packages
+Knowledge of Python or R, and the machine learning, data processing and visualization packages (e.g. Pandas, Numpy, scikit-learn, Matplotlib)
+Knowledge of SQL and databases like MySQL, Postgres, Presto and Hive.
+Knowledge of neural network packages (TensorFlow, PyTorch) and state-of-the-art transformer/NLP models and techniques (e.g. FastText, BERT, et al.)
+Knowledge of statistics and good experimental practices (e.g. how to run a powerful A/B test and test for significance)
+Knowledge of techniques in unsupervised machine learning and information retrieval and mining (e.g. DBSCAN, k-Means, indexes)
+Yext is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ethnicity, religion, creed, national origin, ancestry, genetics, sex, pregnancy or childbirth, sexual orientation, gender (including gender identity or nonbinary or nonconformity and/or status as a trans individual), age, physical or mental disability, citizenship, marital, parental and/or familial status, past, current or prospective service in the uniformed services, or any characteristic protected under applicable law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+
+#LI-JP1",4.3,"Yext, Inc.
+4.3","New York, NY",-1,1001 to 5000 Employees,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),-1
+Data Engineer,$101K-$163K (Glassdoor est.),"Data Engineer
+U.S. citizenship is required for this position due to Department of Defense restrictions.
+
+Role Summary:
+
+Data Engineers design, develop, implement, and support platforms providing secured access to large datasets. This position works with business and technology teams to understand data sources and transform data using best practices in data modeling, ETL processes, SQL, MarkLogic, XQuery/JQuery and analytical, cognitive technologies into actionable business information.
+
+In this role you will:
+
+Improve/maintain/create various data loading/data cleaning packages to ensure data integrity and speed.
+Work with engineering, data science and product management teams to build and manage a wide variety of data sets.
+Build and support tools and services for the management and productization of our data.
+Build and curate data models, along with connected ingestion and harmonization scripts.
+Work with BI and Data Architects to build application extensions adherent to standards.
+Author analytics tools for business partners and data scientists to support operational optimization and product innovation.
+Work closely with Product and Executive leadership to identify and prioritize backlog items to support data infrastructure demands.
+Author and extend modular, re-usable data pipeline tools that connect disparate source systems into canonical formats.
+Extract, transform and load data using SQL and NoSQL technologies.
+Champion SDLC processes and improvements by building and supporting an automated DevOps landscape.
+Utilize test-driven development to achieve comprehensive quality coverage.
+
+This role could be a good fit if you:
+
+Are an innovative, forward-thinking, and self-motivated individual with a strong work ethic and the ability to thrive in a fast-paced environment.
+Are driven individual with strong written and verbal communication skills, excellent analytical / problem solving abilities.
+Have strong technical aptitude and customer service skills with an eagerness to learn business processes and needs.
+Have the ability to execute day-to-day responsibilities with strong attention to detail, quality, and thorough follow-through with stakeholders.
+Have the ability to work both independently and in conjunction with clients, management, peers, and project resources.
+Demonstrate the ability to effectively communicate in technical and non-technical terms, at all levels, both within and outside the organization.
+Are able to design, architect, and maintain a data warehouse that supports a rapidly changing product with our analytics and data service teams.
+
+You’ll benefit from this experience by:
+
+Developing new processes and procedures to enhance data engineering practices.
+Evaluating new industry data engineering technologies and practices.
+Working within a focused, energetic, and agile organization
+Taking a data leadership role on highly complex projects and provide guidance to less experienced staff.
+Ensuring completeness of all development artifacts, including technical business requirements, technical design, completed code, and implementation.
+Training and assisting business users or clients in creating critical data access points
+Working in an environment that serves our Nation’s military, veterans, Guard and Reserves along with their families.
+
+You need to have:
+
+U.S. citizenship is required for this position due to Department of Defense restrictions.
+Bachelor's Degree in related field or equivalent post high school and/or related work experience
+
+We also prefer:
+
+Development experience working with third party data ingestion.
+Experience working within existing frameworks as well as building brand new applications.
+Experience building ETL data pipelines in a programming language like Python or Scala.
+Experience with Data Harmonization.
+Experience designing, building, and maintaining a data warehouse that seamlessly stitches together data from production databases and external APIs to serve consumers
+Excellent ability to understand the needs of and collaborate with stakeholders in other functions, especially analytics teams.
+Strong data modelling skills with solid knowledge of various industry standards such as dimensional modelling, star schemas etc.
+Proficiency in writing performant SQL to work with large data volumes.
+Experience designing and operating very large Data Warehouses.
+Experience working with SQL for data exploration, debugging, and performant data access.
+Experience with developing dashboards and reports on data from sales, call center, and custom software applications.
+Experience with designing and implementing canonical models.
+Experience with leveraging MarkLogic search APIs to build RESTful services.
+Any automated code/data deployments to MarkLogic.
+Data hub framework (DHF) experience.
+
+Your team:
+
+The Data Platform Modernization team exists to break down barriers between our employees and the data that connects us to our mission. As a part of the Emerging Technology and Innovation group, you will be dedicated to developing and scaling proven disruptive technologies into WPS architecture to drive digital maturity in alignment with SSG’s core mission as the “agent of change”.
+
+People: Provide a democratized data platform to empower our people to dig into their data quickly and resolve claims processing issues.
+Profitability: Design a flexible data platform so time can be spent on value added work instead of expensive data munging overhead
+Competitiveness: Minimize time to Insight with fast data pipelines and processing to produce results faster than any competing claims handling service.
+Execution: Make the data platform understandable so customer can find quality issues and improve our execution.
+
+Compensation and Benefits
+
+Eligible for annual Performance Bonus Program
+401(k) with dollar-per-dollar match up to 6% of salary
+Competitive paid time off
+Health and dental insurance start DAY 1
+Vision insurance
+Flexible spending, dependent care, and health savings accounts
+Short- and long-term disability, group life insurance
+Dress for your day
+Innovative professional and cognitive development programs
+
+Who We Are
+
+WPS Health Solutions is an innovator in health insurance and a worldwide leader in claims administration, serving millions of beneficiaries in the United States and abroad.
+
+Founded in 1946, WPS offers health insurance plans for individuals, families, and seniors, and group plans for small and large businesses. We are a world-class claims processor and program administrator for the government’s Medicare program. And we manage benefits for millions of active-duty and retired military personnel and their families.
+
+WPS has been named one of the World's Most Ethical Companies® by the Ethisphere® Institute for 10 years in a row.
+
+Learn more about WPS.
+
+Our Purpose and Values
+
+Our purpose is to make healthcare easier for those we serve. Click Here
+
+Our values – Customer Focused, Individual Responsibility, Mutual Respect, and Driven & Passionate – are the core of who we are and how we conduct business every day.
+
+Health Insurance
+
+WPS Health Insurance offers high-quality health insurance plans for individuals and families, Medicare supplement plans for seniors, and group health plans for businesses of every size.
+
+http://wpshealthsolutions.com/business-units/wpshi.shtml
+
+Military and Veterans Health
+
+WPS Military and Veterans Health administers claims and provides customer service and related activities for the U.S. Department of Defense and the U.S. Department of Veterans Affairs and their beneficiaries.
+
+http://wpshealthsolutions.com/business-units/wpsmvh.shtml
+
+Government Health Administrators
+
+WPS Government Health Administrators manages Medicare Part A and Part B benefits for more than 7 million beneficiaries. As one of the largest contractors for the Centers for Medicare & Medicare Services, we’ve served Medicare beneficiaries and their health care providers since 1966.
+
+http://wpshealthsolutions.com/business-units/wpsgha.shtml
+
+Arise
+
+Arise Health Plan provides innovative and high-value health plans to groups and individuals in eastern and northeastern Wisconsin. With our quality Wisconsin-based customer service, Arise offers health care expertise with a personal touch.
+
+http://wpshealthsolutions.com/business-units/arise.shtml
+
+EPIC Specialty Benefits
+
+EPIC Specialty Benefits provides businesses group insurance products that cover:
+
+Life
+Disability
+Dental
+Vision
+Voluntary benefits
+
+http://wpshealthsolutions.com/business-units/epicsb.shtml
+
+Stay connected: Sign-up for Job Alerts
+
+FOLLOW US!
+
+Facebook
+
+Twitter
+
+LinkedIn",3.0,"Wisconsin Physicians Service Insurance Corporation
+3.0","Madison, WI",-1,1001 to 5000 Employees,1946,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),-1
+Data Scientist,$101K-$163K (Glassdoor est.),"Job Description:
+
+Our Advanced Data Analytics division in Reston, VA is seeking a talented Data Scientist for R&D projects with large amounts of complex data. As a Data Scientist you will be responsible for designing, implementing, and analyzing the results of innovative solutions to clients’ challenging machine learning and data mining problems. Applicants interested in applying only off-the-shelf solutions need not apply. Project teams are small, typically 2-5 people including Data Scientists, Mathematicians, and Software Developers. Each person is involved in the project’s entire process, from concept through design and implementation to demonstration. Our management structure gives you the freedom to create innovative designs and products. The ideal candidate will have experience writing well-documented, maintainable, and extensible software and APIs.
+
+Required Qualifications:
+Bachelor’s or Master’s degree in Machine Learning, Data Science, Computer Science, Mathematics, Statistics, or a related field
+Significant experience developing and knowledge of best practices for evaluating innovative, scalable anomaly detection, classification, recommendation, and related algorithms
+Significant programming experience in Python, Java, Scala, or R
+Experience with machine learning software libraries such as scikit-learn and Weka
+Understanding of deep learning algorithms and experience with related libraries such as TensorFlow, Torch, and Deeplearning4j a plus
+Experience with big data tools such as Apache Spark, Mahout, or Storm a plus
+Experience with NLP (Natural Language Processing) a plus
+Ability to communicate algorithm design, performance metrics, and data analyses in written and oral reports
+US CITIZENSHIP REQUIRED; applicants selected will be subject to a security investigation and will need to meet eligibility requirements for access to classified information
+
+Position Location: Reston, VA
+
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
+
+VEVRAA Federal Contractor",3.0,"Metron, Inc.
+3.0","Reston, VA",-1,51 to 200 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),-1
+Data Scientist/Machine Learning,$101K-$163K (Glassdoor est.),"Data Scientist/Machine Learning
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",3.8,"Juniper Networks, Inc.
+3.8","Cupertino, CA",-1,5001 to 10000 Employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1
